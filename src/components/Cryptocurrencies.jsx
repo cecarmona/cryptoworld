@@ -42,6 +42,7 @@ const Cryptocurrencies = ({ simplified }) => {
               </Card>
             </Link>
           </Col>
+          
         ))}
 
       </Row>
